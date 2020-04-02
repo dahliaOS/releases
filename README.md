@@ -1,4 +1,4 @@
-# releases
+# Releases
 Dahlia OS ISO releases.
 The naming scheme for ISO images is formatted as follows:
 yymmdd.<daily revision>
