@@ -1,7 +1,18 @@
+<p align="center">
+  <img width="100%" src="https://github.com/dahlia-os/press-kit/blob/master/Wallpapers/SVG/Three%20bubbles%20wallpaper.svg"
+</p>
+
+<p align="center">
+<a href="https://dahliaos.io">Website</a> -
+<a href="https://discord.gg/7qVbJHR">Discord</a> -
+<a href="https://paypal.me/officialdahliaos">Donate</a> -
+<a href="https://github.com/dahlia-os/documentation">Documentation</a>
+
 # dahliaOS ISO releases
-![GitHub](https://img.shields.io/github/license/dahlia-os/pangolin-desktop?color=brightgreen)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-brightgreen.svg)](https://paypal.me/officialdahliaos)
+![GitHub All Releases](https://img.shields.io/github/downloads/dahlia-os/releases/total?color=brightgreen)
 [![Discord](https://img.shields.io/discord/576141822145986590.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/7qVbJHR)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-brightgreen.svg)](https://paypal.me/officialdahliaos)
+![GitHub](https://img.shields.io/github/license/dahlia-os/pangolin-desktop?color=brightgreen)
 
 The naming scheme for ISO images is formatted as follows:
 
@@ -13,7 +24,7 @@ Changing architectures will not change the config revision.
   
 # Download 
 
-[Releases](https://github.com/dahlia-os/releases/releases)
+If you'd wish to download dahliaOS, [click here](https://github.com/dahlia-os/releases/releases)!
 
 ## License
 
