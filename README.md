@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://github.com/dahlia-os/press-kit/blob/master/Wallpapers/SVG/Three%20bubbles%20wallpaper.svg"
+  <img width="80%" src="https://github.com/dahlia-os/press-kit/blob/master/Wallpapers/SVG/Three%20bubbles%20wallpaper.svg"
 </p>
 
 <p align="center">
