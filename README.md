@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-<a href="https://dahliaos.io">Website</a> -
-<a href="https://discord.gg/7qVbJHR">Discord</a> -
-<a href="https://paypal.me/officialdahliaos">Donate</a> -
+<a href="https://dahliaos.io">Website</a> ●
+<a href="https://discord.gg/7qVbJHR">Discord</a> ●
+<a href="https://paypal.me/officialdahliaos">Donate</a> ●
 <a href="https://github.com/dahlia-os/documentation">Documentation</a>
 
 # dahliaOS ISO releases
