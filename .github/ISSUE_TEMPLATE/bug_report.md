@@ -1,9 +1,9 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a report to help us improve dahliaOS
 title: ''
 labels: ''
-assignees: nmcain, EnderNightLord-ChromeBook
+assignees: nmcain
 
 ---
 
