@@ -9,7 +9,7 @@
 <a href="https://github.com/dahlia-os/documentation">Documentation</a>
 
 # dahliaOS ISO releases
-![GitHub Releases](https://img.shields.io/github/downloads/dahlia-os/releases/201004-x86_64/total)
+![GitHub Releases](https://img.shields.io/github/downloads/dahlia-os/releases/201215-x86_64/total)
 ![GitHub All Releases](https://img.shields.io/github/downloads/dahlia-os/releases/total?color=brightgreen)
 ![GitHub](https://img.shields.io/github/license/dahlia-os/pangolin-desktop?color=brightgreen)
 
