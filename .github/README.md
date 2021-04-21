@@ -6,7 +6,7 @@
 <a href="https://dahliaos.io">Website</a> ●
 <a href="https://discord.gg/7qVbJHR">Discord</a> ●
 <a href="https://paypal.me/officialdahliaos">Donate</a> ●
-<a href="https://github.com/dahliaos/documentation">Documentation</a>
+<a href="https://docs.dahliaos.io">Documentation</a>
 
 # dahliaOS ISO releases
 ![GitHub Releases](https://img.shields.io/github/downloads/dahliaos/releases/201215-x86_64/total)
