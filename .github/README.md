@@ -5,13 +5,9 @@
 <a href="https://docs.dahliaos.io">Documentation</a>
 
 # dahliaOS ISO releases
-![GitHub Releases](https://img.shields.io/github/downloads/dahliaos/releases/201215-x86_64/total)
+![GitHub Releases](https://img.shields.io/github/downloads/dahliaos/releases/220222-x86_64/total)
 ![GitHub All Releases](https://img.shields.io/github/downloads/dahliaos/releases/total?color=brightgreen)
 ![GitHub](https://img.shields.io/github/license/dahliaos/pangolin-desktop?color=brightgreen)
-
-<p align="center">
-<code><a href="https://dahliaos.io/download/latest/efi">Download latest EFI build</a></code> ●
-<code><a href="https://dahliaos.io/download/latest/legacy">Download latest legacy build</a></code>   
  
 The naming scheme for ISO images is formatted as follows:
 
